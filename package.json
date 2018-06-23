@@ -1,0 +1,26 @@
+{
+  "name": "z-score-proportion",
+  "version": "1.0.0",
+  "description": "From mean, deviation, a upper (and lower) limit find the  proportion (or percentage) of standard distribution ",
+  "main": "index.js",
+  "dependencies": {
+    "ztable": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversen/z-score-proportion.git"
+  },
+  "keywords": [
+    "z-score"
+  ],
+  "author": "Dennis Iversen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diversen/z-score-proportion/issues"
+  },
+  "homepage": "https://github.com/diversen/z-score-proportion#readme"
+}
